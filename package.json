@@ -1,0 +1,16 @@
+{
+  "name": "js-002",
+  "version": "1.0.0",
+  "description": "Curso de JavaScript - OpenBootcamp",
+  "main": "main.js",
+  "scripts": {
+    "start": "node scripts/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "project"
+  ],
+  "author": "Dario Perez",
+  "license": "ISC"
+}
